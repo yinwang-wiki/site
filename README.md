@@ -1,8 +1,15 @@
 ## 王垠百科
 
+### 简介
+
+收集王垠公开发布的研究资料，供学习交流。
+
 ### 王垠的头像
 
-![image](https://user-images.githubusercontent.com/20765689/223361138-b95e363c-a6c6-45e2-9aca-508c8052b233.png)
+<div style="display:inline">
+<image src="https://user-images.githubusercontent.com/20765689/223388420-63dd3b97-5a7a-4bdb-8a02-cbbab7a33638.png" width="100">
+<image src="https://user-images.githubusercontent.com/20765689/223361138-b95e363c-a6c6-45e2-9aca-508c8052b233.png" width="100">
+ </div>
 
 ### 王垠的社交平台链接
 
@@ -24,4 +31,15 @@
 |Yin's Mid-Term Memory - Mapa Mental - Amostra|[https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|王垠学习时期的思维导图笔记|
 |Static Analysis of Dynamically Typed Languages made Easy|[http://www.yinwang.org/resources/pysonar-slides.pdf](http://www.yinwang.org/resources/pysonar-slides.pdf)|王垠关于动态语言的静态分析的幻灯片|
 
+### 王垠百科 DAO
 
+待补充
+  
+### 王垠百科交流群
+
+待补充
+  
+### 其他
+
+待补充
+  
