@@ -1,10 +1,10 @@
-# 王垠百科
+## 王垠百科
 
-## 王垠的头像
+### 王垠的头像
 
 ![image](https://user-images.githubusercontent.com/20765689/223361138-b95e363c-a6c6-45e2-9aca-508c8052b233.png)
 
-## 王垠的社交平台链接
+### 王垠的社交平台链接
 
 王垠的博客：[当然我在扯淡](http://yinwang.org/)（http://yinwang.org/）    
 
