@@ -22,7 +22,6 @@
 
 |标题|链接|说明|
 |:--|:--|:--|
-|当然我在扯淡|http://yinwang.org/|王垠的博客|
+|当然我在扯淡|[http://yinwang.org/](http://yinwang.org/)|王垠的博客|
+|Yin’s Memos|[https://yinwang0.substack.com/](https://yinwang0.substack.com/)|王垠的备忘录（英文）|
 ||||
-||||
-
