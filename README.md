@@ -1,5 +1,3 @@
-# site
-王垠百科-网站
+# 王垠百科
 
-
-test
+王垠的博客：[当然我在扯淡](http://yinwang.org/)(http://yinwang.org/)
