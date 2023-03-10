@@ -9,7 +9,7 @@
 <div style="display:inline">
 <image src="https://user-images.githubusercontent.com/20765689/223388420-63dd3b97-5a7a-4bdb-8a02-cbbab7a33638.png" width="100"/>
 <image src="https://user-images.githubusercontent.com/20765689/223361138-b95e363c-a6c6-45e2-9aca-508c8052b233.png" width="100"/>
-</div><br/>
+</div>
 
 ### 王垠的社交平台链接
 
