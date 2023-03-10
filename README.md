@@ -39,6 +39,6 @@
 
 王垠百科交流群（Telegram）：[https://t.me/yinwangwikichat](https://t.me/yinwangwikichat)
 
-交流群是为了能够更方便地、更直接地对百科内容进行即时的交流。
+交流群是为了能够更方便、更直接地对百科内容进行即时的交流。
   
   
