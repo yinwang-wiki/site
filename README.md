@@ -1,8 +1,10 @@
-## 王垠百科
+## 王垠百科 - 首页
 
 ### 简介
 
-收集王垠公开发布的研究资料，供学习交流。
+#### 早期的背景资料
+
+王垠：四川大学97级本科毕业，保送到清华大学计算机系直博。曾在清华大学计算机系软件所就读，主要进行集成电路布线算法的研究。2004年左右发表《完全用linux工作》和《写给支持和反对<完全用Linux工作>的人们》的文章，在中国的计算机和linux阵营引起极大轰动效应，成为水木清华linuxapp版和中国多个linux社区的偶像级人物。2005年，王垠为第一作者的论文参加IEEE/ACM Asia and South acific Design Automation Conference (ASP-DAC 2005)国际学术会议中获得Best Paper Award。这是自ASP-DAC会议举办以来大陆论文首次获奖。
 
 ### 王垠的头像
 
@@ -22,6 +24,14 @@
 |王垠的草稿本|[https://yinwang1.wordpress.com/](https://yinwang1.wordpress.com/)|王垠的草稿本（中文）|
 |Yin Wang|[https://twitter.com/yinwang0](https://twitter.com/yinwang0)|王垠的 Twitter|
 |不再关心人类de垠|[https://weibo.com/u/6347862377](https://weibo.com/u/6347862377)|王垠的微博|
+
+### 王垠早期的社交平台
+
+|标题|链接|说明|
+|:--|:--|:--|
+|王垠的个人主页|[https://docs.huihoo.com/homepage/shredderyin/](https://docs.huihoo.com/homepage/shredderyin/)|王垠早期的个人主页|
+|王垠的个人空间|[https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|王垠早期的 live 空间（在 archive 上）|
+|王垠的个人空间|[https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间（在 archive 上）|
 
 ### 王垠的一些超文本资料
 
