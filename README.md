@@ -37,7 +37,9 @@
 
 |标题|链接|说明|
 |:--|:--|:--|
-|Yin's Blog - Mind Map|[https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|王垠为博客内容分类画的思维导图|
+|Yin's Blog - Mind Map|[https://www.mindomo.com/
+mindmap/yins-blog-4006528863454a93b643329beae2729a
+?m=4006528863454a93b643329beae2729a](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|王垠为博客内容分类画的思维导图|
 |Yin's Mid-Term Memory - Mapa Mental - Amostra|[https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|王垠中期记忆的思维导图|
 |Static Analysis of Dynamically Typed Languages made Easy|[http://www.yinwang.org/resources/pysonar-slides.pdf](http://www.yinwang.org/resources/pysonar-slides.pdf)|王垠关于动态语言的静态分析的幻灯片|
 
