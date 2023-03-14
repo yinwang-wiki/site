@@ -29,17 +29,17 @@
 
 |标题|链接|说明|
 |:--|:--|:--|
-|王垠的个人主页|[https://docs.huihoo.com/homepage/shredderyin/](https://docs.huihoo.com/homepage/shredderyin/)|王垠早期的个人主页|
-|王垠的个人空间|[https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|王垠早期的 live 空间（在 archive 上）|
-|王垠的个人空间|[https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间（在 archive 上）|
+|王垠的个人主页|[https://docs.huihoo.com/<br>homepage/shredderyin/](https://docs.huihoo.com/homepage/shredderyin/)|王垠早期的个人主页|
+|王垠的个人空间|[https://web.archive.org/<br>web/20070205052100/<br>http://shredderyin.spaces.live.com/](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|王垠早期的 live 空间（在 archive 上）|
+|王垠的个人空间|[https://web.archive.org/<br>web/20060115082959/<br>http://spaces.msn.com/<br>members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间（在 archive 上）|
 
 ### 王垠的一些超文本资料
 
 |标题|链接|说明|
 |:--|:--|:--|
-|Yin's Blog - Mind Map|[https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|王垠为博客内容分类画的思维导图|
-|Yin's Mid-Term Memory - Mapa Mental - Amostra|[https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|王垠中期记忆的思维导图|
-|Static Analysis of Dynamically Typed Languages made Easy|[http://www.yinwang.org/resources/pysonar-slides.pdf](http://www.yinwang.org/resources/pysonar-slides.pdf)|王垠关于动态语言的静态分析的幻灯片|
+|Yin's Blog - Mind Map|[https://www.mindomo.com/mindmap/<br>yins-blog-4006528863454a93b643329beae2729a<br>?m=4006528863454a93b643329beae2729a](https://www.mindomo.com/mindmap/yins-blog-4006528863454a93b643329beae2729a?m=4006528863454a93b643329beae2729a)|王垠为博客内容分类画的思维导图|
+|Yin's Mid-Term Memory - Mapa Mental - Amostra|[https://www.mindomo.com/pt/mindmap/<br>yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041<br>?m=8cc4f95228f942f8886106d876d1b041](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|王垠中期记忆的思维导图|
+|Static Analysis of Dynamically Typed Languages made Easy|[http://www.yinwang.org/<br>resources/pysonar-slides.pdf](http://www.yinwang.org/resources/pysonar-slides.pdf)|王垠关于动态语言的静态分析的幻灯片|
 
 ### 王垠百科 DAO
 
