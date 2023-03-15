@@ -37,6 +37,8 @@
 
 |标题|链接|说明|
 |:--|:--|:--|
+
+|王垠的个人主页|[https://web.archive.org/<br>web/20161023203834/<br>http://www.jianshu.com/users/<br>b1dd2b2c87a8/latest_articles](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|王垠的简书（在 archive 上）|
 |王垠的个人主页|[https://docs.huihoo.com/<br>homepage/shredderyin/](https://docs.huihoo.com/homepage/shredderyin/)|王垠早期的个人主页|
 |王垠的个人空间|[https://web.archive.org/<br>web/20070205052100/<br>http://shredderyin.spaces.live.com/](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|王垠早期的 live 空间（在 archive 上）|
 |王垠的个人空间|[https://web.archive.org/<br>web/20060115082959/<br>http://spaces.msn.com/<br>members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间（在 archive 上）|
