@@ -9,15 +9,15 @@ disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
-show_wiki_pages_limit: 10
+show_wiki_pages_limit: 100
 # (boolean) Enable/disable blog feature
 blog_feature: true
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
 show_wiki_posts: true
 # (integer) Maximum number of wiki posts to shown in sidebar
-show_wiki_posts_limit: 10
+show_wiki_posts_limit: 100
 # from jekyll (read jekyll doc)
-paginate: 5
+paginate: 100
 paginate_path: "assets/blog/page:num"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
