@@ -24,7 +24,7 @@
 |王垠的草稿本|[https://yinwang1.wordpress.com/](https://yinwang1.wordpress.com/)|王垠的草稿本（中文）|
 |Yin Wang|[https://twitter.com/yinwang0](https://twitter.com/yinwang0)|王垠的 Twitter|
 |不再关心人类de垠|[https://weibo.com/u/6347862377](https://weibo.com/u/6347862377)|王垠的微博|
-|yinwang0|[https://www.instagram.com/yinwang0/)|王垠的 Instagram|
+|yinwang0|[https://www.instagram.com/yinwang0/](https://www.instagram.com/yinwang0/)|王垠的 Instagram|
 
 ### 王垠中期的一些超文本资料
 
