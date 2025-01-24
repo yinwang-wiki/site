@@ -25,6 +25,7 @@
 |Yin Wang|[https://twitter.com/yinwang0](https://twitter.com/yinwang0)|王垠的 Twitter|
 |不再关心人类de垠|[https://weibo.com/u/6347862377](https://weibo.com/u/6347862377)|王垠的微博|
 |yinwang0|[https://www.instagram.com/yinwang0/](https://www.instagram.com/yinwang0/)|王垠的 Instagram|
+|Yin Wang|[https://www.linkedin.com/in/yinwang/](https://www.linkedin.com/in/yinwang/)|王垠的领英|
 
 ### 王垠中期的一些超文本资料
 
@@ -43,12 +44,5 @@
 |王垠的个人空间|[https://web.archive.org/<br>web/20070205052100/<br>http://shredderyin.spaces.live.com/](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|王垠早期的 live 空间（在 archive 上）|
 |王垠的个人空间|[https://web.archive.org/<br>web/20060115082959/<br>http://spaces.msn.com/<br>members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间（在 archive 上）|
 
-### 王垠百科 DAO
-
-王垠百科作为一个去中心化的自动治理组织（DAO，Decentralized Autonomous Organization），基于区块链技术接受捐款并且将资金用于百科内容的建设和维护。
-  
-### 王垠百科交流群
-
-王垠百科交流群（Telegram）：[https://t.me/yinwangwikichat](https://t.me/yinwangwikichat)。交流群是为了能够更方便、更直接地对百科内容进行即时的交流。
   
   
