@@ -13,6 +13,8 @@
 <image src="https://user-images.githubusercontent.com/20765689/223361138-b95e363c-a6c6-45e2-9aca-508c8052b233.png" width="100"/>
 </div>
 
+<br>
+
 ### 王垠现在的社交平台链接
 
 |标题|链接|说明|
@@ -46,4 +48,8 @@
 |王垠的个人空间|[https://web.archive.org/<br>web/20060115082959/<br>http://spaces.msn.com/<br>members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间（在 archive 上）|
 
   
-  
+### 王垠的博客内容备份
+
+|标题|链接|说明|
+|:--|:--|:--|
+|YinWangBak|[AlexiaChen/YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)| GitHub 仓库|
