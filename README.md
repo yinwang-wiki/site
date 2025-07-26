@@ -52,4 +52,5 @@
 
 |标题|链接|说明|
 |:--|:--|:--|
+|当然我在扯淡|[https://yinwang-wiki.github.io/feeds/](https://yinwang-wiki.github.io/feeds/)| 网页|
 |YinWangBak|[AlexiaChen/YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)| GitHub 仓库|
