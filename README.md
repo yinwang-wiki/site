@@ -52,5 +52,6 @@
 
 |标题|链接|说明|
 |:--|:--|:--|
+|王垠百科博客|[https://yinwang-wiki.github.io/site/assets/blog/](https://yinwang-wiki.github.io/site/assets/blog/)| 网页|
 |当然我在扯淡|[https://yinwang-wiki.github.io/feeds/](https://yinwang-wiki.github.io/feeds/)| 网页|
 |YinWangBak|[AlexiaChen/YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)| GitHub 仓库|
