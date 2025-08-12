@@ -38,15 +38,22 @@
 |Yin's Mid-Term Memory - Mapa Mental - Amostra|[https://www.mindomo.com/pt/mindmap/<br>yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041<br>?m=8cc4f95228f942f8886106d876d1b041](https://www.mindomo.com/pt/mindmap/yins-mid-term-memory-8cc4f95228f942f8886106d876d1b041?m=8cc4f95228f942f8886106d876d1b041)|王垠中期记忆的思维导图|
 |Static Analysis of Dynamically Typed Languages made Easy|[http://www.yinwang.org/<br>resources/pysonar-slides.pdf](http://www.yinwang.org/resources/pysonar-slides.pdf)|王垠关于动态语言的静态分析的幻灯片|
 
-### 王垠早期的社交平台
+### 王垠发表的学术论文
 
 |标题|链接|说明|
 |:--|:--|:--|
-|王垠的个人主页|[https://web.archive.org/<br>web/20161023203834/<br>http://www.jianshu.com/users/<br>b1dd2b2c87a8/latest_articles](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|王垠的简书（在 archive 上）|
-|王垠 - 知乎|[http://web.archive.org/web/<br>20130801103153/<br>http://www.zhihu.com/people/yinwang0](http://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|王垠的知乎（在 archive 上）|
+|Register Allocation By Model Transformer Semantics|[https://arxiv.org/abs/1202.5539](https://arxiv.org/abs/1202.5539)| 合作者：R. Kent Dybvig |
+
+### 王垠早期的社交平台（WayBackMachine）
+
+|标题|链接|说明|
+|:--|:--|:--|
+|Yin Wang|[https://web.archive.org/<br>web/20131103100254/<br>http://www.cs.indiana.edu/~yw21](https://web.archive.org/web/20131103100254/http://www.cs.indiana.edu/~yw21)|王垠在 Indiana 大学的主页|
+|王垠的个人主页|[https://web.archive.org/<br>web/20161023203834/<br>http://www.jianshu.com/users/<br>b1dd2b2c87a8/latest_articles](https://web.archive.org/web/20161023203834/http://www.jianshu.com/users/b1dd2b2c87a8/latest_articles)|王垠的简书|
+|王垠 - 知乎|[http://web.archive.org/web/<br>20130801103153/<br>http://www.zhihu.com/people/yinwang0](http://web.archive.org/web/20130801103153/http://www.zhihu.com/people/yinwang0)|王垠的知乎|
 |王垠的个人主页|[https://docs.huihoo.com/<br>homepage/shredderyin/](https://docs.huihoo.com/homepage/shredderyin/)|王垠早期的个人主页|
-|王垠的个人空间|[https://web.archive.org/<br>web/20070205052100/<br>http://shredderyin.spaces.live.com/](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|王垠早期的 live 空间（在 archive 上）|
-|王垠的个人空间|[https://web.archive.org/<br>web/20060115082959/<br>http://spaces.msn.com/<br>members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间（在 archive 上）|
+|王垠的个人空间|[https://web.archive.org/<br>web/20070205052100/<br>http://shredderyin.spaces.live.com/](https://web.archive.org/web/20070205052100/http://shredderyin.spaces.live.com/)|王垠早期的 live 空间|
+|王垠的个人空间|[https://web.archive.org/<br>web/20060115082959/<br>http://spaces.msn.com/<br>members/shredderyin](https://web.archive.org/web/20060115082959/ttp://spaces.msn.com/members/shredderyin)|王垠早期的 MSN 空间|
 
   
 ### 王垠的博客内容备份
@@ -56,3 +63,9 @@
 |王垠百科博客|[https://yinwang-wiki.github.io/site/assets/blog/](https://yinwang-wiki.github.io/site/assets/blog/)| 网页|
 |当然我在扯淡|[https://yinwang-wiki.github.io/feeds/](https://yinwang-wiki.github.io/feeds/)| 网页|
 |YinWangBak|[AlexiaChen/YinWangBak](https://github.com/AlexiaChen/YinWangBak/tree/master)| GitHub 仓库|
+
+### 吃瓜/八卦
+
+|标题|链接|说明|
+|:--|:--|:--|
+|王垠的一条新微薄|[https://blog.csdn.net/lcfactorization/article/details/51052324](https://blog.csdn.net/lcfactorization/article/details/51052324)| 八卦 |
