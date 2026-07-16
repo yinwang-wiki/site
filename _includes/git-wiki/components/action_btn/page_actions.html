@@ -5,8 +5,8 @@
   <a target="_blank" rel="noopener" href="{{ site.github.repository_url }}/edit/{{ site.git_branch | escape }}/{{ repository_path }}{{ page.path | escape }}">编辑</a>
   <a class="danger-link" target="_blank" rel="noopener" href="{{ site.github.repository_url }}/delete/{{ site.git_branch | escape }}/{{ repository_path }}{{ page.path | escape }}">删除</a>
   {% endunless %}
-  <a target="_blank" rel="noopener" href="{{ site.github.repository_url }}/commits/{{ site.git_branch | escape }}/{{ repository_path }}{{ page.path | escape }}">历史</a>
-  <a target="_blank" rel="noopener" href="{{ site.github.repository_url }}/blob/{{ site.git_branch | escape }}/{{ repository_path }}{{ page.path | escape }}">源码</a>
+  <a target="_blank" rel="noopener" href="{{ site.github.repository_url }}/commits/{{ site.git_branch | escape }}/{{ repository_path }}{{ page.path | escape }}">版本历史</a>
+  <a target="_blank" rel="noopener" href="{{ site.github.repository_url }}/blob/{{ site.git_branch | escape }}/{{ repository_path }}{{ page.path | escape }}">查看源码</a>
   {% if site.blog_feature and site.disable_edit != true %}
   <a target="_blank" rel="noopener" href="{{ site.github.repository_url }}/new/{{ site.git_branch | escape }}/{{ repository_path }}_posts?filename=">新建文章</a>
   {% endif %}
