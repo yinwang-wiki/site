@@ -1,0 +1,14 @@
+{% if site.inc_before_toc %}
+{% include {{ site.inc_before_toc }} %}
+{% endif %}
+
+<details class="wiki-panel wiki-toc">
+  <summary>本页目录</summary>
+  <div class="wiki-panel-content">
+    {% include git-wiki/components/toc/toc-lib.html title=" " minHeaders=2 html=content sanitize=true class="inline_toc" id="git-wiki-toc" h_min=1 h_max=3 ordered=0 %}
+  </div>
+</details>
+
+{% if site.inc_after_toc %}
+{% include {{ site.inc_after_toc }} %}
+{% endif %}

@@ -1,0 +1,15 @@
+<details class="wiki-panel wiki-tools-panel">
+  <summary>页面工具</summary>
+  <div id="tools-buttons" class="wiki-panel-content">
+    {% if site.inc_before_tools %}
+    {% include {{ site.inc_before_tools }} %}
+    {% endif %}
+
+    {% include git-wiki/components/action_btn/page_actions.html %}
+    {% include git-wiki/components/search/index.html %}
+
+    {% if site.inc_after_tools %}
+    {% include {{ site.inc_after_tools }} %}
+    {% endif %}
+  </div>
+</details>

@@ -3,7 +3,7 @@ title: Hindley-Milner 类型系统的根本性错误
 date: 2013-04-01 00:00 +0800
 ---
 
-## Hindley-Milner 类型系统的根本性错误
+# Hindley-Milner 类型系统的根本性错误
 
 之前的一个时间，我曾经公开过这样一段幻灯片，它是2012年10月的时候，我在 Indiana 大学做的最后一次演讲。由于当时的委婉，我并没有直接说出这些结论的重要性。其实它揭示了 ML 和 Haskell 这类基于 Hindley-Milner 类型系统的语言的一个根本性的错误。
 

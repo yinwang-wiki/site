@@ -1,0 +1,20 @@
+<div class="git-wiki-page">
+  <section class="wiki-page-shell">
+    <aside class="wiki-page-utility" aria-label="页面辅助导航">
+      {% include git-wiki/components/toc/toc.html %}
+      {% include git-wiki/sections/tools/tools.html %}
+    </aside>
+
+    {% if site.inc_before_content %}
+    {% include {{ site.inc_before_content }} %}
+    {% endif %}
+
+    <main id="git-wiki-content" tabindex="-1">
+      {{ content }}
+    </main>
+
+    {% if site.inc_after_content %}
+    {% include {{ site.inc_after_content }} %}
+    {% endif %}
+  </section>
+</div>

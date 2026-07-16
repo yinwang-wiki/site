@@ -1,0 +1,21 @@
+{% if site.inc_before_scripts %}
+{% include {{ site.inc_before_scripts }} %}
+{% endif %}
+
+<script>
+  try {
+    var savedTheme = localStorage.getItem("site-theme");
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.dataset.theme = savedTheme || (prefersDark ? "dark" : "light");
+  } catch (error) {
+    document.documentElement.dataset.theme = "light";
+  }
+</script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="{{ '/assets/js/checkLinks.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/site-theme.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+
+{% if site.inc_after_scripts %}
+{% include {{ site.inc_after_scripts }} %}
+{% endif %}

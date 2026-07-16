@@ -1,0 +1,18 @@
+<nav class="git-wiki-page-list" aria-label="百科页面">
+  {% if site.inc_before_page_list %}{% include {{ site.inc_before_page_list }} %}{% endif %}
+  <span class="page-list-title">百科页面</span>
+  <ul class="page-list">
+    {% assign numPages = 0 %}
+    {% assign items = site.html_pages | sort: 'date' | reverse %}
+    {% for item in items %}
+      {% if numPages >= site.show_wiki_pages_limit %}{% break %}{% endif %}
+      {% if item.path == "README.md" or item.path contains site.wiki_folder %}
+      {% if item.is_wiki_page != false and item.sitemap != false %}
+      <li class="page-list-item"><a href="{{ item.url | relative_url }}">{{ item.title | default: item.name | escape }}</a></li>
+      {% assign numPages = numPages | plus: 1 %}
+      {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% if site.inc_after_page_list %}{% include {{ site.inc_after_page_list }} %}{% endif %}
+</nav>

@@ -1,4 +1,9 @@
-## Example page
+---
+title: Example page
+sitemap: false
+---
+
+# Example page
 
 This is an example page. You can edit it or create a [new one](new_page.md)
 
@@ -18,4 +23,3 @@ This is an example page. You can edit it or create a [new one](new_page.md)
 <https://web.archive.org/web/20180306151201/http://www.yinwang.org/>
 
 <https://web.archive.org/web/20171021070626/http://www.yinwang.org/>
-

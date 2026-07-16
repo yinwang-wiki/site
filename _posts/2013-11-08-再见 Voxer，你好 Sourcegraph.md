@@ -3,7 +3,7 @@ title: 再见 Voxer，你好 Sourcegraph
 date: 2013-11-08 00:00 +0800
 ---
 
-## 再见 Voxer，你好 Sourcegraph
+# 再见 Voxer，你好 Sourcegraph
 
 话说离开 Coverity 之后，在 Coverity 创始人和 CTO Andy Chow 的介绍下，我加入了一家叫做 Voxer 的公司，成为了他们的第一个“Data Engineer”。尽管 Coverity 对待员工相当恶劣，但我不得不承认 Andy Chow 是个特别好的人。要是我直接在他手下做事，那可能也不至于这么快离开 Coverity。可惜啊，似乎每个 startup 在外部资本介入之后，权力都不再集中在最初的 founder 手里，以至于连创始人都拿有些事情没办法。到现在看来，离开 Coverity 还真是明智的决定，它拯救了我的心情和不少的脑神经。我求上帝保佑仍然在 Coverity 工作的中国同事们。
 
