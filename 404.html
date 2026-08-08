@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>王垠百科已迁移</title>
+    <script>
+      (function () {
+        var prefix = '/site';
+        var path = location.pathname;
+        var target = path === prefix || path.indexOf(prefix + '/') !== 0
+          ? '/'
+          : (path.slice(prefix.length) || '/');
+        location.replace('https://yinwang-wiki.github.io' + target + location.search + location.hash);
+      }());
+    </script>
+  </head>
+  <body>
+    <p>王垠百科已迁移，正在前往新地址。</p>
+  </body>
+</html>
